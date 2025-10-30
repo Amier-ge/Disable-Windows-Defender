@@ -8,7 +8,7 @@ PowerShell script to disable Windows Defender and related real-time protection s
 
 ### 1️⃣ Clone the Repository
 ```powershell
-git clone https://github.com/[your-username]/windows-security-disable.git
+git clone https://github.com/Amier-ge/windows-security-disable.git
 ```
 
 ### 2️⃣ Move into the Directory
